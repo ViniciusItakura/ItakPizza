@@ -1,0 +1,53 @@
+.main {
+  padding: 0px 110px;
+  margin: 0 auto;
+  max-width: 1200px;
+  background: #000000;
+}
+
+.main-container {
+  height: 489px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  color: #f8f8f8;
+  gap: 0px 30px;
+}
+
+.main-container img {
+  border-radius: 0px 0px 5px 5px;
+  display: block;
+}
+
+.main-conteudo {
+  margin-top: 40px;
+}
+
+.main-conteudo h1 {
+  font-family: "MuseoModerno", cursive;
+  font-size: 3rem;
+  line-height: 56px;
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
+.main-conteudo p {
+  color: #b8b8b8;
+  font-size: 1.5rem;
+  line-height: 36px;
+}
+
+.main-conteudo span {
+  color: #f57d77;
+}
+
+.main-conteudo a {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  line-height: 32px;
+  margin-top: 60px;
+  color: #ff9a8c;
+  background: #360500;
+  padding: 10px 16px;
+  border-radius: 5px;
+}

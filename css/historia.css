@@ -1,0 +1,14 @@
+.main {
+  padding: 0px 110px;
+  margin: 0 auto;
+  max-width: 1200px;
+  background: #ffffff;
+}
+
+.historia-container {
+  font-family: "MuseoModerno", cursive;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+  display: flex;
+}
